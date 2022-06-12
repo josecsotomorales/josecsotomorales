@@ -1,7 +1,10 @@
 ### Hi there! I'm Jose 👋
+I'm a passionate software engineer.
 
-You can find me on:
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josecsotomorales) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/josecsmorales) 
 
-* [LinkedIn](https://www.linkedin.com/in/josecsotomorales)
-* [Twitter](https://twitter.com/josecsmorales)
-* [GitHub](https://github.com/josecsotomorales)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=josecsotomorales&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=josecsotomorales&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josecsotomorales&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
