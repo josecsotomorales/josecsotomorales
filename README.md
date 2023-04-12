@@ -6,3 +6,5 @@ I'm a passionate software architect 👨‍💻
 
 ### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=josecsotomorales&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=josecsotomorales&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
