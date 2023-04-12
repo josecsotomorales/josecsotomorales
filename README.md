@@ -9,5 +9,5 @@ I'm a passionate software architect 👨‍💻
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=josecsotomorales&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_title=true" />
 </a>
 <a href="https://github.com/josecsotomorales/josecsotomorales">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecsotomorales&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecsotomorales&layout=compact&hide_title=true" />
 </a>
