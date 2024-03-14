@@ -1,13 +1,9 @@
 ### Hi there! I'm Jose 👋
-I am a passionate Software Architect with over a decade of experience shaping the digital landscape. My journey in the IT industry has been an exciting exploration of creating elegant solutions that blend technology and innovation seamlessly.
+As an accomplished Software Architect with over ten years of experience in technology, I specialize in creating innovative software solutions that improve efficiency and user experience. My career is defined by a dedication to excellence, using a strong mix of technical skills and strategic thinking to tackle complex challenges in the industry. I am adept at turning complex ideas into scalable, user-friendly applications, focusing on cloud computing, business intelligence, and big data analytics.
 
-I enjoy translating complex ideas into user-centric software that functions smoothly. With a strong foundation in Software Development, Cloud Computing, Business Intelligence, and Big Data, motivated to turn possibilities into reality.
+I possess a broad skill set, including proficiency in programming languages (Python, Java, Scala) and extensive experience with cloud computing platforms (AWS, GCP, Azure). My expertise also covers containerization and orchestration (Docker, Kubernetes), infrastructure as code (Terraform), and continuous integration/continuous deployment (CI/CD) processes. Additionally, I am skilled in data engineering, utilizing platforms such as Databricks, Snowflake, Redshift, and BigQuery, along with tools like Spark, Kafka, Airflow, and dbt to extract valuable insights from data.
 
-Proficient in several programming languages, including Python, Java, and Scala. I have navigated the ever-expanding cloud landscape, with hands-on experience across AWS, GCP, and Azure, orchestrating software deployments using Docker, Kubernetes, Terraform, and various CI/CD tools, crafting robust solutions and harnessing the power of the cloud to drive innovation.
-
-My expertise extends to Data Engineering, collaborating with Cloud Data Platforms like Databricks, Snowflake, Redshift, and BigQuery. Skilled in Data Integration tools like Spark, Kafka, Airflow, and dbt, which enable me to weave data into meaningful insights.
-
-What sets me apart is my relentless pursuit of excellence, keen attention to detail, and ability to foster collaboration among diverse teams.
+I'm known for my constant strive for excellence, attention to detail, and my strength in collaborating effectively with teams from diverse backgrounds.
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josecsotomorales) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josecsmorales) 
