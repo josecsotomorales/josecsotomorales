@@ -6,7 +6,7 @@ I possess a broad skill set, including proficiency in programming languages (Pyt
 I'm known for my constant strive for excellence, attention to detail, and my strength in collaborating effectively with teams from diverse backgrounds.
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josecsotomorales) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josecsmorales) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josecsotomorales) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/josecsmorales) 
 
 ### Stats
 <a href="https://github.com/josecsotomorales?tab=repositories">
