@@ -1,9 +1,9 @@
 ### Hi there! I'm Jose 👋
-As an accomplished Software Architect with over ten years of experience in technology, I specialize in creating innovative software solutions that improve efficiency and user experience. My career is defined by a dedication to excellence, using a strong mix of technical skills and strategic thinking to tackle complex challenges in the IT industry. I am adept at turning complex ideas into scalable, user-friendly applications, focusing on cloud computing, business intelligence, and big data analytics.
+I build software that helps organizations work with data more reliably, at scale, and with greater confidence. With over a decade of experience across cloud platforms, distributed systems, and data infrastructure, I focus on turning complex challenges into clear, maintainable, and scalable solutions.
 
-I possess a broad skill set, including proficiency in programming languages (Python, Java, Scala) and extensive experience with cloud computing platforms (AWS, GCP, Azure). My expertise also covers containerization and orchestration (Docker, Kubernetes), infrastructure as code (Terraform), and continuous integration/continuous deployment (CI/CD) processes. Additionally, I am skilled in data engineering, utilizing platforms such as Databricks, Snowflake, Redshift, and BigQuery, along with tools like Spark, Kafka, Airflow, and dbt to extract valuable insights from data.
+I thrive in technical leadership roles where I can stay deeply involved—designing system architecture, writing production code, and guiding engineering decisions that drive performance, resilience, and a better developer experience. I enjoy working across teams to align technical execution with product goals and long-term vision.
 
-I'm known for my constant strive for excellence, attention to detail, and my strength in collaborating effectively with teams from diverse backgrounds.
+My expertise spans backend development, infrastructure as code, and real-time data processing. I work primarily with Python, Scala, and Java, and regularly build with tools like Apache Spark, Kubernetes, and Terraform. I care about code quality, engineering culture, and building systems that are dependable and easy to evolve.
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josecsotomorales) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/josecsmorales) 
