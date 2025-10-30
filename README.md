@@ -8,7 +8,7 @@ My expertise spans backend systems, infrastructure-as-code, and real-time data p
 _Currently shaping data reliability at [Qualytics](https://qualytics.ai)._
 
 ### Socials
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/josecsotomorales">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
