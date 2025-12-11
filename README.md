@@ -20,7 +20,7 @@ _Currently shaping data reliability at [Qualytics](https://qualytics.ai)._
 ### Stats
 <div align="center">
   <a href="https://github.com/josecsotomorales?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josecsotomorales&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_title=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecsotomorales&layout=compact&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josecsotomorales&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_title=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josecsotomorales&layout=compact&theme=transparent"/>
   </a>
 </div>
