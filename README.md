@@ -16,11 +16,3 @@ _Currently shaping data reliability at [Qualytics](https://qualytics.ai)._
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
-
-### Stats
-<div align="center">
-  <a href="https://github.com/josecsotomorales?tab=repositories">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josecsotomorales&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_title=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josecsotomorales&layout=compact&theme=transparent"/>
-  </a>
-</div>
